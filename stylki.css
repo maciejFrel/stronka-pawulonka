@@ -1,0 +1,83 @@
+/* 
+
+*/
+
+html, body {
+    margin: 0;
+    background-color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
+.header {
+    padding: 0 i !important;
+    height: 200px;
+    background-color: #a3d3d4;
+    background-image: url('hider_background.jpg');
+    background-position: center center;
+}
+
+.navbar {
+    padding: 0.5rem;
+    background-color: #002d2e;
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.page-title {
+    text-align: center;
+}
+
+.button {
+    transition: 0.2s;
+    cursor: pointer;
+    border: 0;
+    border-radius: 8px;
+    padding: 0.3rem 1.7rem;
+    font-size: 1.4rem;
+    margin-right: 0.5rem;
+}
+
+.button:focus {
+    border: 0;
+    outline: none;
+}
+
+.button-dark {
+    background-color: #014647;
+    color: white;
+}
+
+.button-dark:hover {
+    background-color: #006b6d;
+    color: white;
+}
+
+.button-light {
+    background-color: #99fdff;
+    color: #002627;
+}
+
+.button-light:hover {
+    background-color: white;
+    color: #000000;
+}
+
+#page-container {
+    margin-top: 2rem;
+}
+
+.eeelo {
+    height: 140px;
+    width: 140px;
+}
