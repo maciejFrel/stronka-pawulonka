@@ -14,22 +14,29 @@ html, body {
     height: 100%;
 }
 
+a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    padding-left: 2rem;
+    margin-top: 0.5rem;
+}
+
+ul > li {
+    padding-bottom: 0.4rem;
+}
+
 .container-fluid > .row,
 .container-fluid > .row > .col{
     padding: 0;
     margin: 0;
 }
 
-.text-align {
+.text-justify {
     text-align: justify;
-}
-
-.d-none {
-    display: none;
-}
-
-.d-block {
-    display: block;
 }
 
 .grid-container {
@@ -69,6 +76,11 @@ html, body {
     grid-row: 3 / 4;
     background-color: #403D39;
     color: #FFFCF2;
+    font-size: 0.8em;
+}
+
+.mak {
+    width: 100%;
 }
 
 .navbar {
@@ -91,10 +103,12 @@ html, body {
     transition: 0.2s;
     cursor: pointer;
     border: 0;
-    padding: 2px 12px 0 12px;
+    padding: 0 20px;
     font-size: 1.4rem;
+    font-weight: 500;
     margin-right: 0.5rem;
     height: 40px;
+    text-align: center;
 }
 
 .button:focus {
