@@ -1,65 +1,153 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="stylki.css" type="text/css">
-        <link rel="stylesheet" href="bootstrap-grid.css" type="text/css">
-        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-        <script src="siema.js"></script>
-    </head>
-    <body onload="initialize()">
-        <div class="header d-flex align-items-center justify-content-center">
-            <img class="eeelo" src="00020_1.gif" alt="umc umc">
-            <h3 class="page-title">STRONKA PAWULONKA</h3>
-        </div>
-        <div class="container-fluid align-items-center">
-            <div class="row col">
-                <div class="navbar">
-                    <div class="menu d-flex justify-content-center">
+
+<head>
+    <link rel="stylesheet" href="stylki.css" type="text/css">
+    <link rel="stylesheet" href="bootstrap-grid.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans&display=swap"
+        rel="stylesheet">
+    <script src="siema.js"></script>
+</head>
+
+<body onload="initialize()">
+    <div class="grid-container">
+        <div class="header">
+            <div class="container-fluid p-0 m-0">
+                <div class="row">
+                    <div class="col">
+                        <div class="header-logo d-flex align-items-center justify-content-center">
+                            <img class="logo-container" src="gnu_linux.png" alt="umc umc">
+                            <h3 class="page-title">MacIT</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row col navbar">
+                    <div class="d-flex py-2 justify-content-center">
                         <button onclick="openPage(1)" class="button button-light">
                             HOME
                         </button>
-                        <button  onclick="openPage(2)" class="button button-dark">
+                        <button onclick="openPage(2)" class="button button-dark">
                             ABOUT
                         </button>
-                        <button  onclick="openPage(3)" class="button button-dark">
+                        <button onclick="openPage(3)" class="button button-dark">
                             CONTACT
                         </button>
-                        <button  onclick="openPage(4)" class="button button-dark">
+                        <button onclick="openPage(4)" class="button button-dark">
                             OFFER
                         </button>
                     </div>
                 </div>
             </div>
-            <div class="row d-flex justify-content-center">
-                <div class="col-6">
+        </div>
+
+        <div class="content">
+            <div class="row m-0 d-flex justify-content-center">
+                <div class="col-9">
                     <div id="page-container">
                         <div id="1" class="d-none">
-                            <div class="row">
-                                <h3 class="text-center">HOME</h3>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+                            <div class="row justify-content-center">
+                                <div class="col col-lg-8 col-12">
+                                    <h3 class="text-center">HOME</h3>
+                                    <p class="text-align">Jesteśmy firmą informatyczną z Piły specjalizującą się w
+                                        obsłudze nowych
+                                        technologii, sieci komputerowych, serwerów dla firm oraz prowadzeniu szkoleń. W
+                                        ramach współpracy z firmami oferujemy usługi IT, pomoc w zapewnianiu
+                                        bezpieczeństwa IT firmy oraz wsparcie w zakresie ochrony danych osobowych
+                                        niezbędne przy prowadzeniu jakiejkolwiek działalności. Po wprowadzeniu RODO,
+                                        każdej firmie przyda się pomoc w dopełnieniu wymagań nowej ustawy. Opieramy się
+                                        na wieloletnim doświadczeniu, rozległej wiedzy i sukcesach we współpracy z
+                                        firmami z wielu branż. Szukasz firmy IT we Pile i okolicach? MacIT daje
+                                        gwarancję kompleksowej obsługi Twoich potrzeb informatycznych.</p>
+                                </div>
                             </div>
                         </div>
                         <div id="2" class="d-none">
-                            <div class="row">
-                                <h3 class="text-center">ABOUT</h3>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+                            <div class="row justify-content-center">
+                                <div class="col col-lg-4 col-12">
+                                    <h3 class="text-center">ABOUT</h3>
+                                    <p class="text-align">Od ponad 10 lat naszą specjalnością jest bezpieczeństwo IT,
+                                        usługi informatyczne,
+                                        ochrona danych osobowych oraz zarządzanie infrastrukturą IT. Wspieramy
+                                        przedsiębiorstwa oraz instytucje dostarczając im skuteczne rozwiązania
+                                        techniczne oraz praktyczną wiedzę z zakresu ochrony danych osobowych i
+                                        bezpieczeństwa informacji. Co ważniejsze zapewnia kompleksowe podejście do
+                                        outsourcingu usług IT, które koncentruje się na zapewnieniu najwyższego poziomu
+                                        dostępności i bezpieczeństwa IT w dowolnym miejscu i czasie – od urządzeń
+                                        użytkowników końcowych, takich jak laptopy, komputery stacjonarne i smartfony,
+                                        po serwery, wirtualizację, przetwarzanie w chmurze i optymalizację IT.
+                                        Obsługujemy całą Twoją sieć, zarówno na miejscu, jak i poza budynkiem
+                                        firmy/przedsiębiorstwa, zapewniając outsourcing usług IT na każdym poziomie. Ty
+                                        prowadzisz i rozwijasz biznes, my zajmujemy się wszystkimi problemami związanymi
+                                        z jego bezpieczeństwem IT.</p>
+                                </div>
+                                <div class="col col-lg-6 col-12">
+                                    <h3 class="text-center">EEELO</h3>
+                                    <p class="text-align">MacIT oferuje również szkolenia dla pracowników działu IT i
+                                        działów
+                                        zarządzających. Skupiamy się głównie na nauczeniu na naszych szkoleniach
+                                        odpowiedniego podejścia do bezpieczeństwa i analizy ryzyka, jednak w ramach
+                                        usług outsourcingowych oferujemy szkolenia z zakresu wprowadzanych rozwiązań.
+                                        Tak więc jeżeli obawiacie się, że wasz miejscowy informatyk może nie poradzić
+                                        sobie z wprowadzonym rozwiązaniem klasy ERP, zapewniemy kompleksowe szkolenie z
+                                        obsługi, troubleshootingu i administracji. W pakiecie upowżniamy odpowiednie
+                                        osoby do dostępu do naszych zasobów szkoleniowych i instrukcji.</p>
+                                </div>
                             </div>
                         </div>
                         <div id="3" class="d-none">
                             <div class="row">
                                 <h3 class="text-center">CONTACT</h3>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+                                <div class="list mb-3">
+                                    <p>MacIT Paweł Mrowiński</p>
+                                    <p>Siedziba firmy</p>
+                                    <p>ul. Lelewela 32,</p>
+                                    <p>64-920 Piła.</p>
+                                </div>
+                                <div class="list">
+                                    <p>gigakox@macit.pl 777-888-999 - prezes zarządu</p>
+                                    <p>sekretariat@macit.pl 777-888-998 - sekretariat</p>
+                                    <p>market@macit.pl 777-888-997 - dział marketingu</p>
+                                    <p>bok@macit.pl 777-888-996 - biuro obsługi klienta</p>
+                                </div>
                             </div>
                         </div>
                         <div id="4" class="d-none">
                             <div class="row">
                                 <h3 class="text-center">OFFER</h3>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+                                <p>It is a long established fact that a reader will be distracted by the readable
+                                    content of
+                                    a
+                                    page when looking at its layout. The point of using Lorem Ipsum is that it has a
+                                    more-or-less normal distribution of letters, as opposed to using 'Content here,
+                                    content
+                                    here', making it look like readable English. Many desktop publishing packages and
+                                    web
+                                    page
+                                    editors now use Lorem Ipsum as their default model text, and a search for 'lorem
+                                    ipsum'
+                                    will
+                                    uncover many web sites still in their infancy. Various versions have evolved over
+                                    the
+                                    years,
+                                    sometimes by accident, sometimes on purpose (injected humour and the like).</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </body>
+        <div class="footer">
+            <div class="container-fluid p-0 m-0">
+                <div class="row justify-content-center">
+                    <div class="col-6 py-3">
+                        se footer jest here elo giga kox
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
 </html>

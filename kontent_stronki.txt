@@ -1,0 +1,117 @@
+------content
+
+
+---home
+
+Jesteśmy firmą informatyczną z Piły specjalizującą się w obsłudze nowych technologii, sieci komputerowych, serwerów dla firm oraz prowadzeniu szkoleń. W ramach współpracy z firmami oferujemy usługi IT, pomoc w zapewnianiu bezpieczeństwa IT firmy oraz wsparcie w zakresie ochrony danych osobowych niezbędne przy prowadzeniu jakiejkolwiek działalności. Po wprowadzeniu RODO, każdej firmie przyda się pomoc w dopełnieniu wymagań nowej ustawy. Opieramy się na wieloletnim doświadczeniu, rozległej wiedzy i sukcesach we współpracy z firmami z wielu branż. Szukasz firmy IT we Pile i okolicach? MacIT daje gwarancję kompleksowej obsługi Twoich potrzeb informatycznych.
+
+
+
+
+---about 
+
+Od ponad 10 lat naszą specjalnością jest bezpieczeństwo IT, usługi informatyczne, ochrona danych osobowych oraz zarządzanie infrastrukturą IT. Wspieramy przedsiębiorstwa oraz instytucje dostarczając im skuteczne rozwiązania techniczne oraz praktyczną wiedzę z zakresu ochrony danych osobowych i bezpieczeństwa informacji. Co ważniejsze zapewnia kompleksowe podejście do outsourcingu usług IT, które koncentruje się na zapewnieniu najwyższego poziomu dostępności i bezpieczeństwa IT w dowolnym miejscu i czasie – od urządzeń użytkowników końcowych, takich jak laptopy, komputery stacjonarne i smartfony, po serwery, wirtualizację, przetwarzanie w chmurze i optymalizację IT. Obsługujemy całą Twoją sieć, zarówno na miejscu, jak i poza budynkiem firmy/przedsiębiorstwa, zapewniając outsourcing usług IT na każdym poziomie. Ty prowadzisz i rozwijasz biznes, my zajmujemy się wszystkimi problemami związanymi z jego bezpieczeństwem IT.
+
+
+MacIT oferuje również szkolenia dla pracowników działu IT i działów zarządzających. Skupiamy się głównie na nauczeniu na naszych szkoleniach odpowiedniego podejścia do bezpieczeństwa i analizy ryzyka, jednak w ramach usług outsourcingowych oferujemy szkolenia z zakresu wprowadzanych rozwiązań. Tak więc jeżeli obawiacie się, że wasz miejscowy informatyk może nie poradzić sobie z wprowadzonym rozwiązaniem klasy ERP, zapewniemy kompleksowe szkolenie z obsługi, troubleshootingu i administracji. W pakiecie upowżniamy odpowiednie osoby do dostępu do naszych zasobów szkoleniowych i instrukcji.
+
+
+
+---kontakt 
+
+MacIT Paweł Mrowiński
+Siedziba firmy
+ul. Lelewela 32,
+64-920 Piła
+
+
+gigakox@macit.pl 777-888-999 - prezes zarządu
+
+sekretariat@macit.pl 777-888-998 - sekretariat
+
+market@macit.pl 777-888-997 - dział marketingu
+
+bok@macit.pl 777-888-996 - biuro obsługi klienta
+
+
+Formularz kontaktowy 
+
+
+Imię i nazwisko - ____________
+
+Adres e-mail - __________
+
+Numer Telefonu - __________
+
+Firma - _______
+
+*Opcjonalnie Numer klienta - ______________
+
+Treść wiadomości - ________________
+
+
+Po wypełnieniu i wysłaniu formularza jeden z naszych pracowników skontaktuje się z Państwem.
+
+
+
+
+---oferta
+
+Szkolenia
+
+Oferujemy szkolenia z zakresu cyberbezpieczeństwa, zarządzania ryzykiem i zwiększania świadomości pracowników biurowych o zagrożeniach czyhających na nich w internecie, w mailach czy innej korespondencji. Oferujemy szkolenia online, w siedzibie Twojej firmy bądź większe, kilkudniowe spotkania w wybranych przez nas hotelach. Zagadnienia, w obrębie których przeprowadzamy nasze szkolenia:
+- bezpieczeństwo sieci IT,
+- analiza i zarządzanie ryzykiem w firmie,
+- zwiększanie kompetencji pracowników działów IT z zakresów cyberbeczpieczeństwa,
+- zwiększanie świadomości użytkowników komputerów i telefonów służbowych,
+- kompletna instrukcja pokazująca sposób na korzystanie, administrowanie i rozwiązywanie problemów w danym rozwiązaniu informatycznym np. Bazy danych, prowadzenie strony firmy, pakiety programów ERP.
+
+
+
+Wsparcie iT
+
+Ofermujemy wsparcie IT w kilku postaciach:
+- wprowadzenie nowego oprogramowania wraz ze przeszkoleniem pracowników, administrowaniem danym rozwiązaniem i wsparciem w razie problemów,
+- modernizacja sieci, wprowadzenie nowych rozwiązań technologicznych (switche, serwery, macierze, dyski NAS etc.), administrowanie nimi oraz wsparcie 24/7 w postaci HelpDeska,
+- zabezpieczanie sieci dzięki odpowiednim urządzeniom i konfiguracjom pomagamy usunąć napotkane podatności i usprawnić ciągłość działania elemiminując zewnętrzne i wewnętrzne zagrożenia.
+
+Testy penetracyjne
+
+Ideą testów penetracyjnych jest sprawdzenie zabezpieczeń w danej firmie. Wykonujemy pentesty zdalne jak i lokalne. Jesteśmy w stanie sprawdzić kompetencje pracowników i ich odporność na ataki socjotechniczne (phising, spear phising etc.). W zależności od potrzeb sprawdzamy również zabezpieczenia sieci lokalnych, wykrywamy podatności, tworzymy mapę i diagramy obrazujące ich stopień zagrożenia oraz po wykonanych testach wykonujemy działania zabezpieczające i po prostu "łatamy" znalezione wcześniej podatności. Oferta tych testów prezentuje się następująco:
+- pełne - fizyczne odwiedzenie firmy, przeprowadzenie testów socjotechnicznych na pracownikach, sprawdzenie sieci i urządzeń sieciowych, sprawdzenie urządzeń końcowych oraz sporządzenie raportu zawierającego wszystkie znalezione podatności. 
+- zdalne - zdalnie podłączamy się do sieci firmy i wykonujemy pełen test zawierający skanowanie urządzeń, wykrywanie podatności, mapowanie sieci oraz wykonywanie raportu końcowego,
+- testy pracowników - wykonujemy ataki socjotechniczne na pracowników np. za pomocą wysłania e-maili z formularzami, próbami wyłudzenia haseł czy danych innych wspołpracowników. Całość kończymy raportem i jeżeli wystąpią krytyczne niedogosność to oferujemy szkolenie z wybranego zagadanienia, aby podnieść świadomość pracowników i zapbopiec problemom w przyszłości.
+
+
+
+
+--- stopy mm
+
+MacIT Paweł Mrowiński
+Siedziba firmy
+ul. Lelewela 32,
+64-920 Piła
+
+gigakox@macit.pl 777-888-999 - prezes zarządu
+
+sekretariat@macit.pl 777-888-998 - sekretariat
+
+
+Dane do faktury
+
+
+MacIT Paweł Mrowiński
+Siedziba firmy
+ul. Lelewela 32,
+64-920 Piła
+NIP:1010101010
+
+
+Linki 
+
+facebook
+linkedin
+instagram
+github
+pornhub
+
